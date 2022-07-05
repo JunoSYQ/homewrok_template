@@ -22,7 +22,9 @@
 ## 实验内容
 
 1. [BubbbleSort.py](./BubbleSort.py) 算法实现的python版本
-
+1. [MergeSort.py](./MergeSort.py) 算法实现的python版本
+1. [QuickSort.py](./QuickSort.py) 算法实现的python版本
+1. [Radom.py](./Radom.py) 算法实现的python版本
 
 ## 实验预期结果与实际结果
 + 实验预期结果：14
