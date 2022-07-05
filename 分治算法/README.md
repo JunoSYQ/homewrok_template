@@ -21,7 +21,7 @@
 
 ## 实验内容
 
-1. [BubbbleSort.py](./BubbbleSort.py) 算法实现的python版本
+1. [BubbbleSort.py](https://github.com/JunoSYQ/homewrok_template/blob/main/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/BubbleSort.py) 算法实现的python版本
 
 
 ## 实验预期结果与实际结果
